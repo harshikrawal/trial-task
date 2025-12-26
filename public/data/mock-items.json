@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Office Chair",
+    "description": "Ergonomic office chair with adjustable height and lumbar support",
+    "category": "Furniture",
+    "dimensions": {
+      "length": 65,
+      "width": 60,
+      "height": 120
+    },
+    "unit": "piece",
+    "cbm": 0.468,
+    "sourcingType": "Direct",
+    "timelineType": "Standard"
+  },
+  {
+    "id": "2",
+    "name": "Wireless Keyboard",
+    "description": "Mechanical wireless keyboard with RGB lighting",
+    "category": "Electronics",
+    "dimensions": {
+      "length": 45,
+      "width": 15,
+      "height": 3
+    },
+    "unit": "piece",
+    "cbm": 0.002,
+    "sourcingType": "Indirect",
+    "timelineType": "Express"
+  },
+  {
+    "id": "3",
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness",
+    "category": "Lighting",
+    "dimensions": {
+      "length": 30,
+      "width": 20,
+      "height": 45
+    },
+    "unit": "piece",
+    "cbm": 0.027,
+    "sourcingType": "Direct",
+    "timelineType": null
+  },
+  {
+    "id": "4",
+    "name": "Storage Box",
+    "description": "Plastic storage box for office supplies",
+    "category": "Storage",
+    "dimensions": null,
+    "unit": "piece",
+    "cbm": null,
+    "sourcingType": null,
+    "timelineType": "Standard"
+  },
+  {
+    "id": "5",
+    "name": "Monitor Stand",
+    "description": "Adjustable monitor stand with cable management",
+    "category": null,
+    "dimensions": {
+      "length": 50,
+      "width": 25,
+      "height": 10
+    },
+    "unit": null,
+    "cbm": 0.0125,
+    "sourcingType": "Direct",
+    "timelineType": null
+  }
+]
+
